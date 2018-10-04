@@ -1,0 +1,15 @@
+{
+  "name": "ongk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Lam",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.326.0",
+    "body-parser": "^1.18.3"
+  }
+}
